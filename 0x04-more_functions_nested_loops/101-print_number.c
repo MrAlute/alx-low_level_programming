@@ -4,6 +4,7 @@
  * print_number - Function that prints an integer.
  * @n: int type number
  * Description: Can only use _putchar to print.
+ * Return: 0
  */
 
 void print_number(int n)
@@ -45,4 +46,5 @@ void print_number(int n)
 			m /= 10;
 		}
 	}
+	return (0);
 }
