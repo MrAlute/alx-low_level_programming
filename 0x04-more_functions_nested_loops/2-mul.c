@@ -3,14 +3,15 @@
 
 /**
  * mul - multiply two integers
- * @a and b:  int type letter
+ * @a:  int type letter
  * @b:  int type letter
  * Return: 0
  */
 
 int mul(int a, int b)
 {
+	int a * int  b;
 
-	printf("%d", a * b);
+	printf("%d", 23, 10);
 	return (0);
 }
