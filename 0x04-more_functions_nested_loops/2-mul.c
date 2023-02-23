@@ -10,8 +10,5 @@
 
 int mul(int a, int b)
 {
-	int a * int  b;
-
-	printf("%d", 23, 10);
-	return (0);
+	return (a * b);
 }
