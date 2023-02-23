@@ -2,8 +2,7 @@
 
 /**
  * print_numbers - print number 0 to 9
- *@i: int type
- * Return: 0
+ *Desciption: you can only use _putchar  twice
  */
 
 void print_numbers(void)
