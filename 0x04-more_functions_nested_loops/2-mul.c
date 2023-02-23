@@ -10,8 +10,7 @@
 
 int mul(int a, int b)
 {
-	c = a * b;
 
-	printf("%d", c);
+	printf("%d", a * b);
 	return (0);
 }
